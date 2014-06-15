@@ -23,6 +23,7 @@ The dashboard is under active development, and major changes are not uncommon.
 
 * Checkout the source: `git clone git@github.com:palourde/uchiwa.git`
 * Install the dependencies: `npm install`
+* Install bower dependencies: `bower install`
 
 ## Getting Started
 
